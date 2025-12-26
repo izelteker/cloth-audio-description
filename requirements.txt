@@ -10,3 +10,4 @@ pillow
 tf-keras
 accelerate==0.24.1
 mlflow
+omegaconf
