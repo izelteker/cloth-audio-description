@@ -1,0 +1,12 @@
+numpy
+torch
+transformers==4.35.2
+datasets
+matplotlib
+pandas
+tensorflow
+torchvision
+pillow
+tf-keras
+accelerate==0.24.1
+mlflow
